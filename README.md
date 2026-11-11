@@ -1,5 +1,7 @@
 # Hiveos-quanpool-miner
 Hiveos custom quanpool-miner 6.4.0 in compressed format
+due to quanpool-miner supporting only NVIDIA, it could not be used with AMD 
+or I don't know how to do it.
 
 ## Download
 
