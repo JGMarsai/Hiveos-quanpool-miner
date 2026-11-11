@@ -15,4 +15,4 @@ Release asset: `quanpool-6.4.0.tar.gz`
 - Pass: x
 - Extra config: `--tls-cert-sha256 87dc37af6096a3ddc860b94368ca087775f3ad3e0c4e9bcff3b07ea08d8abef6`
 
-Wallet `qz...` , `.worker` %WAL%.%WORKER_NAME%
+Wallet `qz...` , `.worker` %WAL%.%WORKER_NAME% defined in hiveos wallet
